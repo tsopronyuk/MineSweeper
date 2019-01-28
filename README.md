@@ -1,2 +1,3 @@
-# MineSweeper
-Mine Sweeper
+# Game Mine Sweeper
+
+VBA Project
